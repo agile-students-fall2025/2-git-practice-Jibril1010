@@ -18,4 +18,4 @@ One video I found especially helpful is his **[Full Python Programming Tutorial]
 - It covers core topics that prepare you for more advanced Python learning.  
 
 This tutorial is especially useful for getting ready for upcoming classes or brushing up on Python essentials.  
-- *Naseem Uddin*
+By: *Naseem Uddin*
